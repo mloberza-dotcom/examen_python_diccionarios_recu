@@ -14,6 +14,8 @@ repositorio y luego clonar su fork, realizar los cambios y hacer un push a su pr
 
 ## LLENAR ANTES DE COMENZAR (Deberá llenarse en el fork)
 
-Nombre:
-Apellido:   
-Fecha:
+Nombre:Mateo 
+
+Apellido:Loberza 
+
+Fecha:29/10/2026
